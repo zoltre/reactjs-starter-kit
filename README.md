@@ -1,4 +1,4 @@
-# reactjs-starter-kit
-React JS starter kit V 0.2
+React JS starter kit
 
-Development Version 0.3
+Current downloadable version is 0.2
+Current development version is 0.3
